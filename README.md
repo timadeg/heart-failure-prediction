@@ -58,3 +58,18 @@ The dataset includes the following clinical and demographic features:
 - Visualizations highlight model performance differences
 
 ## 📁 Project Structure
+heart-failure-prediction/
+│
+├── data/
+│   └── heart_failure_clinical_records.csv
+│
+├── notebooks/
+│   └── heart_failure_prediction.ipynb
+│
+├── visualizations/
+│   ├── correlation_heatmap.png
+│   ├── confusion_matrices.png
+│   └── training_curves.png
+│
+├── requirements.txt
+└── README.md
